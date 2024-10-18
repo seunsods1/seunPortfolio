@@ -41,7 +41,7 @@ function Hero() {
                 <p className={styles.desc}>
                     I am an Aspiring Software Developer with experience in Python, C++ and Javascript. I am hoping to showcase my creativity and out of the box thinking on here. Thank you for taking the time to assess my work.
                 </p>
-                <a href={"https://drive.google.com/file/d/1xs7Keig2EGvpugIOpYUTS-zAcZz1uPz9/view?usp=sharing"} view target="_blank">
+                <a href={"https://drive.google.com/file/d/1DCbDWZDQAvJGpOVVH-KQk8VUAKlYllct/view?usp=sharing"} view target="_blank">
                     <button className="hover">
                         View Resume
                     </button>
